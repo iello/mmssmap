@@ -19,3 +19,9 @@ Web application to display and manage social services providers
 
 - Filters
 - Backend for administration and auto geocoding 
+
+## Install dependencies
+
+$ npm install totaljs
+$ npm install pg
+$ npm install sqlagent
