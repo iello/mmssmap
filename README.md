@@ -22,6 +22,6 @@ Web application to display and manage social services providers
 
 ## Install dependencies
 
-$ npm install totaljs
-$ npm install pg
-$ npm install sqlagent
+- $ npm install totaljs
+- $ npm install pg
+- $ npm install sqlagent
