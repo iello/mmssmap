@@ -25,3 +25,4 @@ Web application to display and manage social services providers
 - $ npm install totaljs
 - $ npm install pg
 - $ npm install sqlagent
+- $ npm install node-geocoder
