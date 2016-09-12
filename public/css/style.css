@@ -32,6 +32,10 @@ a.navbar-brand:hover                    { color: #005691 !important; }
   margin-top: 18px !important;
 }}
 
+.navbar-right .btn{
+  margin: 15px 0 0 5px;
+}
+
 .navbar-brand-image {
   height: 50px;
   margin-left: 0px;
